@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Segoe UI",SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+nav{
+    width: 1492px;
+    padding: 20px 50px;
+    background-color: white;
+    display: flex;
+}
+.banner{
+    background-image: url();
+    padding: 20px;
+    width: 13px;
+}
+.banner-pics img{
+   width: 50px;
+}
+a{
+    color: #0067b8;
+}
+.microsoft-logo{
+    width: 50px;
+}
+.nav-one{
+    width: 1033px;
+}
+li{
+    height: 20px;
+}
+.nav-one-right ul{
+    display: flex;
+    list-style-type: none;
+}
+.nav-one-right li{
+    margin: 0px 0px 30px 35px;
+    font-size: 13px;
+    padding: 10px 10px 0px 35px;
+}
+.nav-two{
+    padding: 10px 0px;
+    margin: 10px 0px;
+    width: 20px;
+}
+.nav-two-right ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+.nav-two-right li{
+    margin: 2px 0px;
+    padding: 5px 0px;
+    font-size: 13px;
+    display: flex;
+}
+.microsoft-img{
+    width: 1340px;
+    height: 500px;
+    top: 500px;
+}
+.microsoft-img-text{
+    padding: 50px 20px 30px 10px;
+}
+.nav3{
+    text-align: left;
+    align-content: left;
+    margin: 20px;
+}
+a{
+    color: #0067b8;
+    font-weight: 400;
+}
+.body-p1{
+    font-size: 40PX;
+    font-weight: 700;
+    margin: 20px;
+}
+.body-end{
+    display: flex;
+    padding-left: 0px 20px;
+}
+.body-end img{
+    margin: 20px;
+}
+.body-img1{
+    margin: 200px 0px 0px 150px;
+}
+.body-img1 img{
+    width: 350px;
+}
+.body-text1-p2{
+    font-size: 16px;
+}
+.body-img2{
+    margin: 20px;
+}
+.body-img2 img{
+    width: 350px;
+}
+.body-img3{
+    margin: 20px ;
+}
+.body-img3 img{
+    width: 350px;
+}
+.body-img4{
+    margin: 20px;
+}
+.body-img4 img{
+    width: 350px;
+}
+.banner-1{
+ margin: 60px;
+}
+.banner-1 img{
+    width: 1340px;
+}
+.nav4{
+    text-align: left;
+    align-content: left;
+    margin: 90px 10px 20px 0px;
+}
+.nav4 a{
+    color: #0067b8;
+    text-decoration: none;
+    font-weight: 500;
+}
+.nav4 a:hover{
+    text-decoration: underline;
+}
+.body-p1{
+    font-size: 40PX;
+    font-weight: 700;
+    margin: 4px 4px 10px 10px;
+}
+.body-end{
+    display: flex;
+    padding-left: 0px 20px;
+}
+.body-end img{
+    margin: 5px;
+}
+.body-img1{
+    margin: 3px 10px 9px 1px;
+}
+.body-img1 img{
+    width: 350px;
+}
+.body-text1-p2{
+    font-size: 16px;
+}
+.body-img2{
+    margin: 20px;
+}
+.body-img2 img{
+    width: 350px;
+}
+.body-img3{
+    margin: 10px ;
+}
+.body-img3 img{
+    width: 350px;
+}
+.body-img4{
+    margin: 0px;
+}
+.body-img4 img{
+    width: 350px;
+}
+.microsoft{
+    display: flex;
+    margin: 60px;
+}
+.btn button{
+    padding: 10px 55px;
+    cursor: pointer;
+    color: white;
+    background-color: #0067b8;
+    border: none;
+}
+.btn button:hover{
+    padding: 10px 25px;
+    cursor: pointer;
+    background-color: #0067b8;
+    color: white;
+    border: none;
+}
+.btn{
+    padding: 0px 230px 0px 0px;
+    float: left;
+}
+footer{
+    padding: 10px 40px 50px 60px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #e0d9d9;
+    list-style-type: none;
+    margin: 5px;
+}
+.list-items-header{
+    font-weight: bold;
+}
+footer li{
+    margin: 15px;
+}
+footer a{
+    color: black;
+    text-decoration: none;
+    list-style-type: none;
+}
+footer a:hover{
+    text-decoration: underline;
+    font-weight: 500;
+}
+.list-items-header{
+    font-size: 15px;
+    list-style-type: none;
+}
